@@ -5,7 +5,6 @@ export default defineConfig({
   title: "何巧云博客",
   description: "关注前端技术",
   srcDir: "docs",
-  base:'/docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
