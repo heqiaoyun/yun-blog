@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "何巧云博客",
   description: "关注前端技术",
-  srcDir: "docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
